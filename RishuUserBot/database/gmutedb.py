@@ -1,4 +1,4 @@
-from RishuUserBot.database import cli
+from GetoUserBot.database import cli
 
 gmuteh = cli["GMUTE"]
 
