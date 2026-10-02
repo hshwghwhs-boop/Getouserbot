@@ -1,4 +1,4 @@
-from GetoUserBot.database import cli
+from RishuUserBot.database import cli
 
 collection = cli["GetoUserBot"]["rraid"]
 
