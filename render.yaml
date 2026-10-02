@@ -6,7 +6,7 @@ services:
     buildCommand: pip install -U -r requirements.txt
     startCommand: python3 server.py & python3 -m RishuUserBot  
  repo:
-https://github.com/RishuBot/RishuUserBot    
+https://github.com/hshwghwhs-boop/Getouserbot    
     branch: main
     envVars:
       - key: SUDO_USERS 
