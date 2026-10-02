@@ -16,17 +16,17 @@ if API_ID:
    API_ID = API_ID
 else:
    print("WARNING: API ID NOT FOUND USING RishuUserBot API ⚡")
-   API_ID = "27079591"
+   API_ID = "37668994"
 
 if API_HASH:
    API_HASH = API_HASH
 else:
    print("WARNING: API HASH NOT FOUND USING RishuUserBot API ⚡")   
-   API_HASH = "c81ae4c3dc026ea4bf49842a8ce4a5f9"
+   API_HASH = "03cc2efbe99c77eb9dc11e64fb779f2a"
 
 if not BOT_TOKEN:
    print("WARNING: BOT TOKEN NOT FOUND PLZ ADD ⚡")   
-
+   BOT_TOKEN = "8978074858:AAHahhfwov8kvlk9U3rug48s75XGwJuzm64"
 # Main bot client with plugins folder
 app = Client(
     name="app",
