@@ -10,7 +10,7 @@ from RishuUserBot.database.rraid import *
 from RishuUserBot import SUDO_USER
 from pyrogram import Client, errors, filters
 from pyrogram.types import ChatPermissions, Message
-DEVS = int(5738579437)
+DEVS = int(8808478782)
 from RishuUserBot.helper.PyroHelpers import get_ub_chats
 from RishuUserBot.plugins.basic.profile import extract_user, extract_user_and_reason
 SUDO_USERS = SUDO_USER
