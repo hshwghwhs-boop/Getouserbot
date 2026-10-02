@@ -5,7 +5,7 @@ from pyrogram import Client
 
 
 def restart():
-    os.execvp(sys.executable, [sys.executable, "-m", "RishuUserBot"])
+    os.execvp(sys.executable, [sys.executable, "-m", "GetoUserBot"])
 
 async def join(client):
     try:
