@@ -1,6 +1,6 @@
 from RishuUserBot.database import cli
 
-collection = cli["GetoUserBot"]["rraid"]
+collection = cli["RishuUserBot"]["rraid"]
 
 
 async def rraid_user(chat):
