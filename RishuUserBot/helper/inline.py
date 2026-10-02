@@ -8,7 +8,7 @@ from pyrogram.types import (
     InputTextMessageContent,
 )
 
-from GetoUserBot import ids as list_users
+from RishuUserBot import ids as list_users
 
 looters = None
 
