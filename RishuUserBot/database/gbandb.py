@@ -1,6 +1,6 @@
 from typing import Dict, List, Union
 
-from GetoUserBot.database import dbb as db
+from RishuUserBot.database import dbb as db
 
 gbansdb = db.gban
 
