@@ -1,7 +1,7 @@
-from GetoUserBot.database import cli
+from RishuUserBot.database import cli
 import asyncio
 
-collection = cli["GetoUserBot"]["pmpermit"]
+collection = cli["RishuUserBot"]["pmpermit"]
 
 PMPERMIT_MESSAGE = (
    "ᴡᴀʀɴɪɴɢ!⚠️ ᴘʟᴢ ʀᴇᴀᴅ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴄᴀʀᴇꜰᴜʟʟʏ..\n\n"
