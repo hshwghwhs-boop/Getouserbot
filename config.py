@@ -9,14 +9,14 @@ if os.path.exists("local.env"):
 API_ID = int(getenv("API_ID", "14050586")) #optional
 API_HASH = getenv("API_HASH", "42a60d9c657b106370c79bb0a8ac560c") #optional
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5738579437").split()))
-OWNER_ID = int(getenv("OWNER_ID", "5738579437"))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8862655399").split()))
+OWNER_ID = int(getenv("OWNER_ID", "8808478782"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "8978074858:AAHahhfwov8kvlk9U3rug48s75XGwJuzm64")
 ALIVE_PIC = getenv("ALIVE_PIC", 'https://files.catbox.moe/o1zhtn.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
-LOG_GROUP = getenv("LOG_GROUP","-1001992970818")
+LOG_GROUP = getenv("LOG_GROUP","-1004457626526")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
 REPO_URL = getenv("REPO_URL", "https://github.com/Rishuz/Slove")
 BRANCH = getenv("BRANCH", "main") #don't change
